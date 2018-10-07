@@ -1,6 +1,6 @@
 { 
 	"gateway_conf": { 
-		"gateway_ID": "gateway2_lora_pegospain", 
+		"gateway_ID": "B827EBFFFE358BA0", 
 		"servers": [ 
 			{ 
 				"server_address": "router.eu.thethings.network", 
